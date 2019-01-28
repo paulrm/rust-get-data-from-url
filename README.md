@@ -1,6 +1,6 @@
 # Using Rust To Get Data From A Url
 
-**Tested on Rust 1.3**
+**Updated to work rustc 1.32.0 (9fda7c223 2019-01-16)**
 
 An example of how to fetch json data from a url, parse the json and get some specific values.
 

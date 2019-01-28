@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Herman J. Radtke III <herman@hermanradtke.com>"]
 
 [dependencies]
+rustc-serialize = "0.3.24"
 curl = "0.2.11"
 serde_json = "0.6.0"
